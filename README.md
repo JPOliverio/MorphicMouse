@@ -7,5 +7,5 @@ It accomplishes this by generating a Bezier-curve path. Starting where the mouse
 ![Screen Shot 2021-08-12 at 4 36 13 PM](https://user-images.githubusercontent.com/88540433/129266164-81957c06-2935-4464-914a-ea38c3c71ba0.png)
 
 
-
+Please see the Example branch for an example on how to use the class.
 Future work includes adding static noise, perfecting overshoot, and mouse speed.
